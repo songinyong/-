@@ -1,0 +1,16 @@
+20.9 ~ 20.10 까지 진행
+
+//수업 개요
+UML를 통해
+UseCase Diagram
+Activity Diagram
+Class Diagram
+Sequence Diagram
+Communication Diagram
+Statement Diagram
+Software Diagram
+등 정보시스템을 모델링하고, 시스템 개발에 필요한 분석, 설계 방법을 학습하였음
+
+//물류 창고의 전산 시스템를 타겟으로 설정하고 프로젝트를 진행
+//파일은 최종 발표때 사용한 각 다이어그램들을 종합한 ppt 
+//팀원: 송인용외 2명
